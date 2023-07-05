@@ -1,0 +1,29 @@
+.text{
+    text-align: center;
+    background-image: url(../img/WoM2.jpg);
+    height: 250px;}
+.text1 p{
+    width: 450px;}
+a{
+    color:black;
+     transition: 0.3s;
+    width:100px;
+    text-decoration: none;
+}
+.text a{
+    color:white;
+}
+a:hover{
+    color:green;
+    width:50px;
+}
+h1{
+    color:white;
+}
+.text1{
+    background-image: url(../img/WoM.jpg);
+    background-position: right;
+    background-size: 400px 400px;
+    background-repeat:no-repeat ;
+    margin-right:100px ;
+}
